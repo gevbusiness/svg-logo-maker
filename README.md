@@ -1,1 +1,1 @@
-# svg-logo-maker
+# read-me-generator
